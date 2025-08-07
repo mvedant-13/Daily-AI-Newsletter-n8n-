@@ -28,7 +28,7 @@
           "parameters": [
             {
               "name": "X-Api-Key",
-              "value": "c761ac922ba94dfe8a99176adc36e9cc"
+              "value": ""
             }
           ]
         },
@@ -85,15 +85,15 @@
       "name": "Google Gemini Chat Model",
       "credentials": {
         "googlePalmApi": {
-          "id": "DTL1yMVBx4QWnA5v",
+          "id": "",
           "name": "Google Gemini(PaLM) Api account"
         }
       }
     },
     {
       "parameters": {
-        "fromEmail": "vedantmalode33@gmail.com",
-        "toEmail": "vedantmalode23@gmail.com",
+        "fromEmail": "",
+        "toEmail": "",
         "subject": "NewsLetter",
         "html": "={{ $json.output }}",
         "options": {}
@@ -109,7 +109,7 @@
       "webhookId": "f128516e-97e8-4264-9d68-9ec96f86d093",
       "credentials": {
         "smtp": {
-          "id": "QdPuQGyBjrgmA6Vl",
+          "id": "",
           "name": "SMTP account"
         }
       }
